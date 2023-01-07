@@ -1,6 +1,6 @@
 # SIDRA
 
-This is a simple [Electron](https://electronjs.org/) + [React.js](https://reactjs.org/) template (with live reload). It was designed to work without the need of a development server running in the background, like so many other templates, and it's hence free of cross domain request constraints ([CORS](https://reactjs.org/)). It's further explained [in my article on Medium](https://medium.com/@michael.m/creating-an-electron-and-react-template-5173d086549a).
+This is a simple [Electron](https://electronjs.org/) + [React.js](https://reactjs.org/) template (with live reload). It was designed to work without the need of a development server running in the background, like so many other templates, and it's hence free of cross domain request constraints ([CORS](https://reactjs.org/)).
 
 ## Installing
 
